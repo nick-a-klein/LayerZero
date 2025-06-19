@@ -18,5 +18,7 @@ Everything was designed, coded, and tested by me in Scratch.
 Visuals are based on my concept art and were either created by me, generated with assistance from ChatGPT, or a combination of both.
 
 Music by Karl Casey @ White Bat Audio
+
 Tracks used: Replicant Hunter, Genesis
+
 Check out more: https://youtube.com/WhiteBatAudio
