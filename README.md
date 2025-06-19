@@ -8,6 +8,8 @@ Reach the core. Don’t get derezzed.
 
 Can you reach Layer Zero?
 
+[Play my project on Scratch](https://scratch.mit.edu/projects/1189435572/)
+
 **Notes and Credits:**
 
 Layer Zero is my submission for Week 0 of Harvard’s CS50 course, and my first completed game. It was inspired by cyberpunk fiction, classic hacker aesthetics, and shoot 'em up games.
@@ -17,4 +19,4 @@ Visuals are based on my concept art and were either created by me, generated wit
 
 Music by Karl Casey @ White Bat Audio
 Tracks used: Replicant Hunter, Genesis
-Check out more: youtube.com/WhiteBatAudio
+Check out more: (https://youtube.com/WhiteBatAudio)
