@@ -19,4 +19,4 @@ Visuals are based on my concept art and were either created by me, generated wit
 
 Music by Karl Casey @ White Bat Audio
 Tracks used: Replicant Hunter, Genesis
-Check out more: (https://youtube.com/WhiteBatAudio)
+Check out more: https://youtube.com/WhiteBatAudio
