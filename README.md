@@ -1,6 +1,6 @@
 # LayerZero
 
-Instructions:
+**Instructions:**
 You are a hacker infiltrating a digital fortress.
 
 Use arrow keys or WASD to move. Dodge obstacles.
@@ -8,7 +8,7 @@ Reach the core. Don’t get derezzed.
 
 Can you reach Layer Zero?
 
-Notes and Credits:
+**Notes and Credits:**
 
 Layer Zero is my submission for Week 0 of Harvard’s CS50 course, and my first completed game. It was inspired by cyberpunk fiction, classic hacker aesthetics, and shoot 'em up games.
 
